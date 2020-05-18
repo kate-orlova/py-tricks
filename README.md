@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/github/license/kate-orlova/py-tricks.svg)](https://github.com/kate-orlova/py-tricks/blob/master/LICENSE)
 ![GitHub language count](https://img.shields.io/github/languages/count/kate-orlova/py-tricks.svg?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/kate-orlova/py-tricks.svg?style=flat)
 # Py Tricks
